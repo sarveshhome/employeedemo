@@ -17,3 +17,6 @@ step 3:
 `npm install typings --global`
 
 `typings install express --save`
+
+then create folder `config models routes views public`
+
